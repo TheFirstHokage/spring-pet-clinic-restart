@@ -1,4 +1,4 @@
-package model;
+package master.spring.springpetclinicrestart.model;
 
 public class PetType {
 
